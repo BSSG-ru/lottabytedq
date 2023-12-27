@@ -1,0 +1,23 @@
+{
+    "dq_email_list": "mail@mail.com",
+    "env": "test",
+    "error_email_list": "mail@mail.com",
+    "exception_email_list": "mail@mail.com,mail1@mail.com",
+    "pg_database": "db_name",
+    "pg_exceptions_table": "exceptions_log",
+    "pg_host": "localhost",
+    "pg_password": "pass",
+    "pg_port": 7432,
+    "pg_schema": "dq",
+    "pg_username": "pgbouncer",
+    "smtp_host": "smtp.yandex.ru",
+    "smtp_login": "test@yandex.ru",
+    "smtp_password": "pass",
+    "smtp_port": 465,
+    "open_linage_path": "/Users/ob/Work/bssg/OpenLineage/client/python",
+    "tenant": "1020",
+    "kafka_producer_topic": "linage",
+    "kafka_producer": "DQ_TOOL(scheduler)",
+    "kafka_bootstrap_servers": "localhost:9092",
+    "kafka_namespace": "lb"
+}
